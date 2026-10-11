@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kpnaseef2/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/kpnaseef2/leetcode/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/kpnaseef2/leetcode/tree/master/0179-largest-number) |
 | [2363-merge-similar-items](https://github.com/kpnaseef2/leetcode/tree/master/2363-merge-similar-items) |
 ## Binary Search
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kpnaseef2/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/kpnaseef2/leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
