@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kpnaseef2/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/kpnaseef2/leetcode/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/kpnaseef2/leetcode/tree/master/0179-largest-number) |
+| [0645-set-mismatch](https://github.com/kpnaseef2/leetcode/tree/master/0645-set-mismatch) |
 | [2363-merge-similar-items](https://github.com/kpnaseef2/leetcode/tree/master/2363-merge-similar-items) |
 ## Binary Search
 |  |
@@ -48,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/kpnaseef2/leetcode/tree/master/0179-largest-number) |
+| [0645-set-mismatch](https://github.com/kpnaseef2/leetcode/tree/master/0645-set-mismatch) |
 | [2363-merge-similar-items](https://github.com/kpnaseef2/leetcode/tree/master/2363-merge-similar-items) |
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/kpnaseef2/leetcode/tree/master/0645-set-mismatch) |
 | [2363-merge-similar-items](https://github.com/kpnaseef2/leetcode/tree/master/2363-merge-similar-items) |
 ## Ordered Set
 |  |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kpnaseef2/leetcode/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/kpnaseef2/leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
