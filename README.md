@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kpnaseef2/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kpnaseef2/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kpnaseef2/leetcode/tree/master/0202-happy-number) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/kpnaseef2/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Newton's Method
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/kpnaseef2/leetcode/tree/master/0645-set-mismatch) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/kpnaseef2/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
