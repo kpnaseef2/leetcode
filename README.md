@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kpnaseef2/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kpnaseef2/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/kpnaseef2/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/kpnaseef2/leetcode/tree/master/0326-power-of-three) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/kpnaseef2/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Newton's Method
 |  |
@@ -112,4 +113,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kpnaseef2/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/kpnaseef2/leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
