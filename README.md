@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kpnaseef2/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kpnaseef2/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/kpnaseef2/leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/kpnaseef2/leetcode/tree/master/0179-largest-number) |
 | [1021-remove-outermost-parentheses](https://github.com/kpnaseef2/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/kpnaseef2/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kpnaseef2/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kpnaseef2/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kpnaseef2/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kpnaseef2/leetcode/tree/master/0202-happy-number) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kpnaseef2/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/kpnaseef2/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/kpnaseef2/leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/kpnaseef2/leetcode/tree/master/0645-set-mismatch) |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kpnaseef2/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kpnaseef2/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kpnaseef2/leetcode/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kpnaseef2/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
