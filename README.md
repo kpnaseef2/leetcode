@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kpnaseef2/leetcode/tree/master/0645-set-mismatch) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kpnaseef2/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2363-merge-similar-items](https://github.com/kpnaseef2/leetcode/tree/master/2363-merge-similar-items) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kpnaseef2/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/kpnaseef2/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kpnaseef2/leetcode/tree/master/0342-power-of-four) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/kpnaseef2/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kpnaseef2/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Newton's Method
 |  |
 | ------- |
