@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kpnaseef2/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/kpnaseef2/leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/kpnaseef2/leetcode/tree/master/0202-happy-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kpnaseef2/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kpnaseef2/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/kpnaseef2/leetcode/tree/master/0179-largest-number) |
 | [0645-set-mismatch](https://github.com/kpnaseef2/leetcode/tree/master/0645-set-mismatch) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kpnaseef2/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kpnaseef2/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2363-merge-similar-items](https://github.com/kpnaseef2/leetcode/tree/master/2363-merge-similar-items) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kpnaseef2/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/kpnaseef2/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kpnaseef2/leetcode/tree/master/0069-sqrtx) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kpnaseef2/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kpnaseef2/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kpnaseef2/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/kpnaseef2/leetcode/tree/master/0179-largest-number) |
 | [0645-set-mismatch](https://github.com/kpnaseef2/leetcode/tree/master/0645-set-mismatch) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kpnaseef2/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kpnaseef2/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2363-merge-similar-items](https://github.com/kpnaseef2/leetcode/tree/master/2363-merge-similar-items) |
 ## Hash Table
