@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kpnaseef2/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/kpnaseef2/leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/kpnaseef2/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/kpnaseef2/leetcode/tree/master/0283-move-zeroes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kpnaseef2/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kpnaseef2/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kpnaseef2/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/kpnaseef2/leetcode/tree/master/0179-largest-number) |
+| [0283-move-zeroes](https://github.com/kpnaseef2/leetcode/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/kpnaseef2/leetcode/tree/master/0645-set-mismatch) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kpnaseef2/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kpnaseef2/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
