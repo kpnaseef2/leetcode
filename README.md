@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kpnaseef2/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kpnaseef2/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/kpnaseef2/leetcode/tree/master/0179-largest-number) |
+| [0219-contains-duplicate-ii](https://github.com/kpnaseef2/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/kpnaseef2/leetcode/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/kpnaseef2/leetcode/tree/master/0645-set-mismatch) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kpnaseef2/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/kpnaseef2/leetcode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/kpnaseef2/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/kpnaseef2/leetcode/tree/master/0645-set-mismatch) |
 | [2363-merge-similar-items](https://github.com/kpnaseef2/leetcode/tree/master/2363-merge-similar-items) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kpnaseef2/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kpnaseef2/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/kpnaseef2/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
