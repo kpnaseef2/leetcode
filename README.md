@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kpnaseef2/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kpnaseef2/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kpnaseef2/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kpnaseef2/leetcode/tree/master/0067-add-binary) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kpnaseef2/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/kpnaseef2/leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/kpnaseef2/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/kpnaseef2/leetcode/tree/master/0645-set-mismatch) |
@@ -162,5 +164,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kpnaseef2/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/kpnaseef2/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
