@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/kpnaseef2/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kpnaseef2/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/kpnaseef2/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/kpnaseef2/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/kpnaseef2/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/kpnaseef2/leetcode/tree/master/0342-power-of-four) |
