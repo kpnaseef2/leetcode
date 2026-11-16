@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kpnaseef2/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/kpnaseef2/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/kpnaseef2/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kpnaseef2/leetcode/tree/master/0088-merge-sorted-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kpnaseef2/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/kpnaseef2/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kpnaseef2/leetcode/tree/master/0069-sqrtx) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kpnaseef2/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/kpnaseef2/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/kpnaseef2/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
