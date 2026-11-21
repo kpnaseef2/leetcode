@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kpnaseef2/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/kpnaseef2/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/kpnaseef2/leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/kpnaseef2/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kpnaseef2/leetcode/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kpnaseef2/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/kpnaseef2/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/kpnaseef2/leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/kpnaseef2/leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/kpnaseef2/leetcode/tree/master/0066-plus-one) |
