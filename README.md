@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/kpnaseef2/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kpnaseef2/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kpnaseef2/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/kpnaseef2/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/kpnaseef2/leetcode/tree/master/0179-largest-number) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/kpnaseef2/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/kpnaseef2/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kpnaseef2/leetcode/tree/master/0070-climbing-stairs) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/kpnaseef2/leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Memoization
 |  |
 | ------- |
